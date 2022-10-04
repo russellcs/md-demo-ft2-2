@@ -61,3 +61,12 @@ X^2^
 
 [^1]: This is the footnote
 ````
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
