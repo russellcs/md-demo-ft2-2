@@ -39,11 +39,6 @@ Not `.buttonImportant`
 | Russell | 40  |
 | Sally   | 20  |
 
-```.card {
-    background-color: red;
-    color: white;
-    }```
-
 My footnote [^1]
 
 ### My heading with an id {#custom-id}
