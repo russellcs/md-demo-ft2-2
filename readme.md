@@ -39,7 +39,7 @@ Not `.buttonImportant`
 | Russell | 40  |
 | Sally   | 20  |
 
-````.card {
+```.card {
     background-color: red;
     color: white;
     }```
